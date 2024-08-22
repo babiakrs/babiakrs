@@ -23,13 +23,13 @@
 
 <div id="socials" align="center">
   <h3>Socials</h3>
-  <a href="https://t.me/alfinity" target="_blank">
+  <a href="https://t.me/babiakrs" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:its.alfinity@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
     </a>
-  <a href="https://www.linkedin.com/in/roman-babyak" target="_blank">
+  <a href="https://www.linkedin.com/in/babiakrs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -38,7 +38,7 @@
 
 <div id="stats" align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almost-infinity&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babiakrs&layout=compact&theme=vision-friendly-dark)
 
 </div>
 
